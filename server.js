@@ -45,8 +45,6 @@ app.use(express.static('./public'));
 // -------------------------------------------------
 
 // Database
-// mongodb://heroku_r819n229:2mek2it4hst2n6j5j4g6i798i@ds153835.mlab.com:53835/heroku_r819n229
-// MongoDB Configuration configuration (Change this URL to your own DB)
 var databaseUrl = 'mongodb://heroku_1pgm1ldm:tr2sm9fp0lr5prg2lbgl8ic6cr@ds139242.mlab.com:39242/heroku_1pgm1ldm'; //nytreact
 // var databaseUrl = 'mongodb://localhost/nytimes';
 var collections = ["articles"];
