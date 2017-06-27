@@ -21499,8 +21499,7 @@
 	// imports
 
 
-	// module
-	exports.push([module.id, ".jumbotron {\n  background: pink; }\n", ""]);
+
 
 	// exports
 
