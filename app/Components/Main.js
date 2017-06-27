@@ -72,7 +72,7 @@ var Main = React.createClass({
 
 			<div>
 
-				<div className="jumbotron">
+				<div className="jumbotrosn">
 					<div className="container">
 						<h1>New York Times Article Scrubber</h1>
 						<p>Search for and annotate articles of interest!</p>

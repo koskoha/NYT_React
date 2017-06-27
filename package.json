@@ -6,16 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/robbethencourt/nytreact.git"
-  },
-  "author": "Robert Bethencourt",
-  "license": "ISC",
+  "author": "Kostiantyn Kobylinskyi",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/robbethencourt/nytreact/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/robbethencourt/nytreact#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.12.0",
     "body-parser": "^1.15.2",
